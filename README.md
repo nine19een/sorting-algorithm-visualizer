@@ -11,11 +11,11 @@
 
 ### 排序演示
 
-![排序演示页面](docs/images/sorting-demo.png)
+![排序演示页面](images/sorting-demo.png)
 
 ### 性能对比
 
-![性能对比页面](docs/images/performance-comparison.png)
+![性能对比页面](images/performance-comparison.png)
 
 ## 支持的排序算法
 
